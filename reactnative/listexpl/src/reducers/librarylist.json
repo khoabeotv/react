@@ -1,0 +1,55 @@
+[
+	{
+		"id": 0,
+		"title": "Mẹo chữa cay",
+		"description": "ffds"
+	},
+
+	{
+		"id": 1,
+		"title": "Mẹo hầm nhanh",
+		"description": "Bí quyết nhỏ cho bạn nấu các món hầm thật nhanh."
+	},
+
+	{
+		"id": 2,
+		"title": "Mẹo thái thịt nhanh",
+		"description": "Làm thế nào để thái những lát thịt thật nhanh và đẹp?"
+	},
+
+	{
+		"id": 3,
+		"title": "Mẹo ướp món nướng",
+		"description": "Ướp món nướng ngon không hề khó, cùng thử ngay mẹo nhỏ này với Knorr nhé"
+	},
+
+	{
+		"id": 4,
+		"title": "Mẹo ướp món nướng",
+		"description": "Món nướng của bạn thường bị khô? Có thể là do việc ướp chưa được chuẩn."
+	},
+
+	{
+		"id": 5,
+		"title": "Mẹo chưng, hấp cá",
+		"description": "Lại có thêm mẹo khi chưng hấp cá cho các mẹ bỏ túi rồi đây."
+	},
+
+	{
+		"id": 6,
+		"title": "Mẹo sử dụng nấm",
+		"description": "Mẹo chế biến nấm mà vẫn giữ nguyên độ giòn ngọt tự nhiên thật đơn giản!"
+	},
+
+	{
+		"id": 7,
+		"title": "Chế biến thịt mềm và ngon",
+		"description": "Với mẹo nhỏ này, món thịt nướng cuối tuần của gia đình bạn sẽ ngon “đúng điệu”."
+	},
+
+	{
+		"id": 8,
+		"title": "Mẹo thái ớt",
+		"description": "Với mẹo nhỏ này, bạn sẽ không còn phải sợ bị cay khi thái ớt nữa đâu nhé."
+	}
+]
